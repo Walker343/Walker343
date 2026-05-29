@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Walker343
-- 👀 I’m interested in ... 
-  -Coding, soccer, golf, entrepreneurship
-- 🌱 I’m currently learning ...
-  -JS, HTML, CSS
-- 📫 How to reach me ...
-   - w.blaschak@gmail.com
+CS and XR graduate from Trine University with a background in AI/ML, Python, and immersive technology. Building projects across web, mobile, and data — currently working on NutriTrack, a fitness tracking app, and exploring agentic AI systems. Open to opportunities in AI, software development, and XR.
 
 <!---
 Walker343/Walker343 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
